@@ -1,0 +1,14 @@
+location:
+  address: 22 Ridgway Pl, Melbourne VIC 3000
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.0225795367487!2d144.9724269!3d-37.8129401!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642c628b85e4f%3A0x82a6d21e6086bff2!2sLiaison%20Cafe!5e0!3m2!1sen!2sau!4v1669420829199!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/pages/category/Coffee-shop/Liaison-Cafe-1377101372547336/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:(03) 9663 3225
